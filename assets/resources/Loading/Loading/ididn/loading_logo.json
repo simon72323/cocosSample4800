@@ -1,0 +1,131 @@
+{
+"skeleton": { "hash": "ZkI8KWnEL095eCU7x0lgViikIZU", "spine": "3.8.72", "x": -36, "y": -38, "width": 72, "height": 77 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ALL", "parent": "root" },
+	{ "name": "star", "parent": "ALL", "x": -27.17, "y": 234.54 },
+	{ "name": "word", "parent": "ALL", "x": 0.91, "y": 91.38 },
+	{ "name": "X2", "parent": "ALL", "y": 268 },
+	{ "name": "XR", "parent": "ALL", "y": 219.62 },
+	{ "name": "Xsmoke", "parent": "ALL", "y": 268 },
+	{ "name": "vertical", "parent": "ALL", "y": 268 },
+	{ "name": "smoke", "parent": "ALL", "y": 268 },
+	{ "name": "test", "parent": "ALL" },
+	{ "name": "bg", "parent": "root" },
+	{ "name": "X2_freez", "parent": "ALL", "y": 268 },
+	{ "name": "X2_add", "parent": "ALL", "y": 268 },
+	{ "name": "word2", "parent": "ALL", "x": 0.91, "y": 91.38 }
+],
+"slots": [
+	{ "name": "test", "bone": "test" },
+	{ "name": "bg", "bone": "bg" },
+	{ "name": "vertical", "bone": "vertical" },
+	{ "name": "smoke", "bone": "smoke" },
+	{ "name": "word", "bone": "word" },
+	{ "name": "word2", "bone": "word2" },
+	{ "name": "X2", "bone": "X2" },
+	{ "name": "X2_add", "bone": "X2_add", "blend": "additive" },
+	{ "name": "X2_add2", "bone": "X2_add", "blend": "additive" },
+	{ "name": "Xsmoke", "bone": "Xsmoke", "blend": "additive" },
+	{ "name": "X2_freez", "bone": "X2_freez" },
+	{ "name": "X2_freez2", "bone": "X2_freez", "color": "ffffff78", "blend": "additive" },
+	{ "name": "star", "bone": "star", "blend": "additive" },
+	{ "name": "none", "bone": "ALL", "attachment": "none" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"none": {
+				"none": { "x": 0.5, "y": 0.5, "width": 283, "height": 283 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"X2_freez": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"X2_freez2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"X2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"word": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"vertical": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"X2_add": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"word2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"X2_add2": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"Xsmoke": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"star": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"bg": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"smoke": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			},
+			"test": {
+				"color": [
+					{ "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"X2_freez": {
+				"translate": [
+					{ "y": 1.6 }
+				],
+				"scale": [
+					{ "x": 1.048, "y": 1.048 }
+				]
+			},
+			"smoke": {
+				"scale": [
+					{ "x": 2.594, "y": 2.594 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,139 @@
+
+dust_trun.png
+size: 1128,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_trun_01
+  rotate: true
+  xy: 1043, 94
+  size: 208, 78
+  orig: 256, 150
+  offset: 0, 19
+  index: -1
+dust_trun_03
+  rotate: true
+  xy: 1043, 304
+  size: 212, 81
+  orig: 256, 150
+  offset: 0, 19
+  index: -1
+dust_trun_05
+  rotate: false
+  xy: 809, 97
+  size: 216, 84
+  orig: 256, 150
+  offset: 0, 19
+  index: -1
+dust_trun_07
+  rotate: false
+  xy: 809, 4
+  size: 221, 88
+  orig: 256, 150
+  offset: 0, 19
+  index: -1
+dust_trun_09
+  rotate: true
+  xy: 905, 289
+  size: 227, 92
+  orig: 256, 150
+  offset: 0, 18
+  index: -1
+dust_trun_11
+  rotate: false
+  xy: 809, 183
+  size: 232, 95
+  orig: 256, 150
+  offset: 0, 18
+  index: -1
+dust_trun_13
+  rotate: true
+  xy: 804, 280
+  size: 236, 99
+  orig: 256, 150
+  offset: 0, 17
+  index: -1
+dust_trun_15
+  rotate: true
+  xy: 699, 275
+  size: 241, 103
+  orig: 256, 150
+  offset: 0, 17
+  index: -1
+dust_trun_17
+  rotate: true
+  xy: 698, 10
+  size: 248, 109
+  orig: 256, 150
+  offset: 0, 15
+  index: -1
+dust_trun_19
+  rotate: true
+  xy: 582, 4
+  size: 254, 114
+  orig: 256, 150
+  offset: 0, 14
+  index: -1
+dust_trun_21
+  rotate: true
+  xy: 576, 260
+  size: 256, 121
+  orig: 256, 150
+  offset: 0, 11
+  index: -1
+dust_trun_23
+  rotate: true
+  xy: 446, 260
+  size: 256, 128
+  orig: 256, 150
+  offset: 0, 8
+  index: -1
+dust_trun_25
+  rotate: true
+  xy: 443, 2
+  size: 256, 137
+  orig: 256, 150
+  offset: 0, 4
+  index: -1
+dust_trun_27
+  rotate: true
+  xy: 298, 2
+  size: 256, 143
+  orig: 256, 150
+  offset: 0, 4
+  index: -1
+dust_trun_29
+  rotate: true
+  xy: 2, 260
+  size: 256, 146
+  orig: 256, 150
+  offset: 0, 2
+  index: -1
+dust_trun_31
+  rotate: true
+  xy: 2, 2
+  size: 256, 146
+  orig: 256, 150
+  offset: 0, 2
+  index: -1
+dust_trun_33
+  rotate: true
+  xy: 150, 260
+  size: 256, 146
+  orig: 256, 150
+  offset: 0, 2
+  index: -1
+dust_trun_35
+  rotate: true
+  xy: 150, 2
+  size: 256, 146
+  orig: 256, 150
+  offset: 0, 2
+  index: -1
+dust_trun_37
+  rotate: true
+  xy: 298, 260
+  size: 256, 146
+  orig: 256, 150
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,342 @@
+
+pillar_fg_1.png
+size: 2020,1940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CH_R
+  rotate: false
+  xy: 541, 33
+  size: 154, 42
+  orig: 156, 42
+  offset: 2, 0
+  index: -1
+EN_R
+  rotate: false
+  xy: 690, 1375
+  size: 113, 63
+  orig: 114, 63
+  offset: 1, 0
+  index: -1
+ID_R
+  rotate: false
+  xy: 541, 3
+  size: 132, 28
+  orig: 132, 31
+  offset: 0, 2
+  index: -1
+KO_R
+  rotate: false
+  xy: 697, 42
+  size: 133, 33
+  orig: 135, 37
+  offset: 1, 2
+  index: -1
+MS_R
+  rotate: false
+  xy: 1441, 431
+  size: 114, 59
+  orig: 116, 63
+  offset: 0, 3
+  index: -1
+PH_R
+  rotate: false
+  xy: 690, 1317
+  size: 109, 56
+  orig: 113, 60
+  offset: 2, 3
+  index: -1
+TH_R
+  rotate: false
+  xy: 690, 1440
+  size: 119, 78
+  orig: 119, 78
+  offset: 0, 0
+  index: -1
+VI_R
+  rotate: true
+  xy: 1972, 1229
+  size: 127, 32
+  orig: 130, 35
+  offset: 1, 3
+  index: -1
+eff_award
+  rotate: false
+  xy: 1441, 492
+  size: 228, 224
+  orig: 256, 256
+  offset: 14, 16
+  index: -1
+eff_circle
+  rotate: false
+  xy: 1571, 248
+  size: 238, 238
+  orig: 256, 256
+  offset: 9, 9
+  index: -1
+eff_common
+  rotate: false
+  xy: 1571, 24
+  size: 222, 222
+  orig: 260, 256
+  offset: 20, 10
+  index: -1
+eff_light
+  rotate: false
+  xy: 1893, 371
+  size: 116, 115
+  orig: 128, 127
+  offset: 6, 6
+  index: -1
+eff_light_01
+  rotate: true
+  xy: 1411, 65
+  size: 361, 158
+  orig: 380, 178
+  offset: 9, 10
+  index: -1
+eff_spot
+  rotate: false
+  xy: 1811, 264
+  size: 57, 58
+  orig: 64, 64
+  offset: 5, 2
+  index: -1
+frame_pillar_r_01
+  rotate: true
+  xy: 818, 1669
+  size: 267, 417
+  orig: 300, 420
+  offset: 20, 0
+  index: -1
+frame_pillar_r_03
+  rotate: true
+  xy: 272, 1252
+  size: 264, 416
+  orig: 300, 420
+  offset: 21, 0
+  index: -1
+frame_pillar_r_05
+  rotate: true
+  xy: 1239, 1402
+  size: 267, 415
+  orig: 300, 420
+  offset: 19, 0
+  index: -1
+frame_pillar_r_07
+  rotate: false
+  xy: 271, 835
+  size: 269, 415
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+frame_pillar_r_09
+  rotate: false
+  xy: 271, 419
+  size: 269, 414
+  orig: 300, 420
+  offset: 17, 0
+  index: -1
+frame_pillar_r_11
+  rotate: false
+  xy: 271, 2
+  size: 268, 415
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+frame_pillar_r_13
+  rotate: false
+  xy: 542, 835
+  size: 266, 415
+  orig: 300, 420
+  offset: 19, 0
+  index: -1
+frame_pillar_r_15
+  rotate: false
+  xy: 542, 419
+  size: 265, 414
+  orig: 300, 420
+  offset: 19, 0
+  index: -1
+frame_pillar_r_17
+  rotate: false
+  xy: 2, 446
+  size: 267, 417
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+frame_pillar_r_19
+  rotate: false
+  xy: 272, 1518
+  size: 271, 418
+  orig: 300, 420
+  offset: 17, 0
+  index: -1
+frame_pillar_r_21
+  rotate: false
+  xy: 545, 1520
+  size: 271, 416
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+frame_pillar_r_23
+  rotate: false
+  xy: 2, 28
+  size: 267, 416
+  orig: 300, 420
+  offset: 17, 0
+  index: -1
+frame_pillar_r_25
+  rotate: true
+  xy: 1237, 1671
+  size: 265, 419
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+frame_pillar_r_27
+  rotate: true
+  xy: 818, 1403
+  size: 264, 419
+  orig: 300, 420
+  offset: 19, 0
+  index: -1
+frame_pillar_r_29
+  rotate: false
+  xy: 2, 865
+  size: 267, 420
+  orig: 300, 420
+  offset: 18, 0
+  index: -1
+mg_dust1_01
+  rotate: true
+  xy: 1658, 1648
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_03
+  rotate: true
+  xy: 1656, 1358
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_05
+  rotate: false
+  xy: 541, 77
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_07
+  rotate: false
+  xy: 810, 1061
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_09
+  rotate: false
+  xy: 810, 719
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_11
+  rotate: true
+  xy: 809, 429
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_13
+  rotate: false
+  xy: 831, 87
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_15
+  rotate: false
+  xy: 1100, 1060
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_17
+  rotate: false
+  xy: 1442, 718
+  size: 234, 340
+  orig: 300, 340
+  offset: 59, 0
+  index: -1
+mg_dust1_19
+  rotate: true
+  xy: 1100, 770
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_21
+  rotate: true
+  xy: 1630, 1068
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_23
+  rotate: false
+  xy: 1151, 428
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_25
+  rotate: false
+  xy: 1121, 86
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_27
+  rotate: true
+  xy: 1678, 778
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_29
+  rotate: true
+  xy: 1678, 488
+  size: 288, 340
+  orig: 300, 340
+  offset: 5, 0
+  index: -1
+mg_dust1_30
+  rotate: false
+  xy: 1390, 1060
+  size: 238, 340
+  orig: 300, 340
+  offset: 55, 0
+  index: -1
+pillar_fg_1  1 OFF
+  rotate: false
+  xy: 2, 1287
+  size: 268, 649
+  orig: 279, 653
+  offset: 2, 2
+  index: -1
+pillar_fg_jewelry1
+  rotate: false
+  xy: 1811, 324
+  size: 80, 162
+  orig: 80, 162
+  offset: 0, 0
+  index: -1
+pillar_mg_jewelry4
+  rotate: false
+  xy: 1100, 729
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1

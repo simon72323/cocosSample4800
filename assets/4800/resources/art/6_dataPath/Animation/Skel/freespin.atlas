@@ -1,0 +1,104 @@
+
+freespin.png
+size: 880,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+congratulations
+  rotate: false
+  xy: 520, 11
+  size: 307, 42
+  orig: 310, 45
+  offset: 2, 1
+  index: -1
+eff_shin
+  rotate: true
+  xy: 829, 5
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+everywandtriggers
+  rotate: true
+  xy: 491, 18
+  size: 432, 27
+  orig: 435, 29
+  offset: 1, 1
+  index: -1
+feature_transfer_frame
+  rotate: false
+  xy: 2, 2
+  size: 487, 448
+  orig: 489, 450
+  offset: 1, 1
+  index: -1
+freespin
+  rotate: true
+  xy: 548, 114
+  size: 336, 62
+  orig: 338, 64
+  offset: 1, 1
+  index: -1
+fsg1
+  rotate: false
+  xy: 764, 71
+  size: 111, 111
+  orig: 125, 125
+  offset: 7, 7
+  index: -1
+fsg2
+  rotate: false
+  xy: 757, 332
+  size: 116, 118
+  orig: 119, 122
+  offset: 1, 2
+  index: -1
+gq
+  rotate: false
+  xy: 646, 184
+  size: 121, 121
+  orig: 123, 123
+  offset: 1, 1
+  index: -1
+guangdian1
+  rotate: false
+  xy: 603, 71
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+guanghuan1
+  rotate: false
+  xy: 646, 66
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 612, 307
+  size: 143, 143
+  orig: 155, 155
+  offset: 6, 6
+  index: -1
+pressanywhere
+  rotate: true
+  xy: 520, 55
+  size: 395, 26
+  orig: 398, 29
+  offset: 1, 2
+  index: -1
+xx1
+  rotate: true
+  xy: 769, 220
+  size: 110, 103
+  orig: 112, 104
+  offset: 1, 1
+  index: -1
+xx2
+  rotate: false
+  xy: 548, 71
+  size: 53, 41
+  orig: 54, 48
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "name": "48slot",
+  "uuid": "c141efdc-17d0-40e6-b8ec-264d7f3a9ad1",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "dependencies": {
+    "joe": "^2.0.2",
+    "mobx": "^6.10.0",
+    "xstate": "^4.38.2"
+  },
+  "description": "48Slot 埃及 30line"
+}

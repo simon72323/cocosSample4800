@@ -1,0 +1,13 @@
+
+loading_logo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+none
+  rotate: false
+  xy: 1, 1
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1

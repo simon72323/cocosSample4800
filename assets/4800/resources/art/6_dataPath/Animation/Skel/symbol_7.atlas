@@ -1,0 +1,27 @@
+
+symbol_7.png
+size: 248,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_shine
+  rotate: false
+  xy: 193, 29
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+symbols_7
+  rotate: true
+  xy: 102, 2
+  size: 77, 89
+  orig: 78, 89
+  offset: 1, 0
+  index: -1
+symbols_7_blur
+  rotate: true
+  xy: 2, 2
+  size: 77, 98
+  orig: 78, 99
+  offset: 1, 1
+  index: -1

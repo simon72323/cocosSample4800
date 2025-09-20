@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f447c003-1e41-44a9-90bb-9db4a5e71374",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f447c003-1e41-44a9-90bb-9db4a5e71374@6c48a",
+      "displayName": "checkbuy",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "f447c003-1e41-44a9-90bb-9db4a5e71374",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "f447c003-1e41-44a9-90bb-9db4a5e71374@f9941",
+      "displayName": "checkbuy",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0.5,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 840,
+        "height": 1015,
+        "rawWidth": 844,
+        "rawHeight": 1020,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -420,
+            -507.5,
+            0,
+            420,
+            -507.5,
+            0,
+            -420,
+            507.5,
+            0,
+            420,
+            507.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            2,
+            1018,
+            842,
+            1018,
+            2,
+            3,
+            842,
+            3
+          ],
+          "nuv": [
+            0.002369668246445498,
+            0.0029411764705882353,
+            0.9976303317535545,
+            0.0029411764705882353,
+            0.002369668246445498,
+            0.9980392156862745,
+            0.9976303317535545,
+            0.9980392156862745
+          ],
+          "minPos": [
+            -420,
+            -507.5,
+            0
+          ],
+          "maxPos": [
+            420,
+            507.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f447c003-1e41-44a9-90bb-9db4a5e71374@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "f447c003-1e41-44a9-90bb-9db4a5e71374@6c48a"
+  }
+}

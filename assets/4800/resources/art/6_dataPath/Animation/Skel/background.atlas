@@ -1,0 +1,279 @@
+
+background.png
+size: 1648,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_doorL_L
+  rotate: true
+  xy: 1492, 221
+  size: 65, 140
+  orig: 67, 142
+  offset: 1, 1
+  index: -1
+FG_doorL_R
+  rotate: true
+  xy: 1492, 357
+  size: 67, 140
+  orig: 69, 142
+  offset: 1, 1
+  index: -1
+MG_doorL_L
+  rotate: true
+  xy: 1496, 154
+  size: 65, 140
+  orig: 67, 142
+  offset: 1, 1
+  index: -1
+MG_doorL_R
+  rotate: true
+  xy: 1492, 288
+  size: 67, 140
+  orig: 69, 142
+  offset: 1, 1
+  index: -1
+bg_fire_1_01
+  rotate: false
+  xy: 1418, 28
+  size: 72, 94
+  orig: 128, 128
+  offset: 29, 3
+  index: -1
+bg_fire_1_02
+  rotate: false
+  xy: 1270, 23
+  size: 72, 99
+  orig: 128, 128
+  offset: 29, 2
+  index: -1
+bg_fire_1_03
+  rotate: false
+  xy: 373, 17
+  size: 73, 105
+  orig: 128, 128
+  offset: 29, 2
+  index: -1
+bg_fire_1_04
+  rotate: false
+  xy: 2, 9
+  size: 73, 113
+  orig: 128, 128
+  offset: 29, 2
+  index: -1
+bg_fire_1_05
+  rotate: false
+  xy: 77, 9
+  size: 73, 113
+  orig: 128, 128
+  offset: 29, 2
+  index: -1
+bg_fire_1_06
+  rotate: false
+  xy: 152, 10
+  size: 72, 112
+  orig: 128, 128
+  offset: 30, 2
+  index: -1
+bg_fire_1_07
+  rotate: false
+  xy: 1344, 24
+  size: 72, 98
+  orig: 128, 128
+  offset: 30, 2
+  index: -1
+bg_fire_1_08
+  rotate: false
+  xy: 1420, 126
+  size: 74, 93
+  orig: 128, 128
+  offset: 28, 2
+  index: -1
+bg_fire_1_09
+  rotate: false
+  xy: 592, 20
+  size: 72, 102
+  orig: 128, 128
+  offset: 29, 2
+  index: -1
+bg_fire_1_10
+  rotate: false
+  xy: 299, 16
+  size: 72, 106
+  orig: 128, 128
+  offset: 29, 3
+  index: -1
+bg_fire_1_11
+  rotate: false
+  xy: 226, 13
+  size: 71, 109
+  orig: 128, 128
+  offset: 29, 3
+  index: -1
+bg_fire_1_12
+  rotate: false
+  xy: 520, 19
+  size: 70, 103
+  orig: 128, 128
+  offset: 30, 3
+  index: -1
+bg_fire_1_13
+  rotate: false
+  xy: 448, 17
+  size: 70, 105
+  orig: 128, 128
+  offset: 30, 3
+  index: -1
+bg_fire_1_14
+  rotate: false
+  xy: 1420, 264
+  size: 70, 78
+  orig: 128, 128
+  offset: 30, 3
+  index: -1
+bg_fire_1_15
+  rotate: false
+  xy: 1420, 344
+  size: 70, 80
+  orig: 128, 128
+  offset: 29, 3
+  index: -1
+bg_fire_1_16
+  rotate: false
+  xy: 1492, 41
+  size: 71, 83
+  orig: 128, 128
+  offset: 29, 3
+  index: -1
+eff_lightbeam
+  rotate: true
+  xy: 1418, 2
+  size: 24, 55
+  orig: 64, 64
+  offset: 20, 2
+  index: -1
+eff_smork
+  rotate: false
+  xy: 1565, 72
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+eff_spot
+  rotate: false
+  xy: 1565, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mg_dust2_05
+  rotate: false
+  xy: 2, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_07
+  rotate: false
+  xy: 104, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_09
+  rotate: false
+  xy: 206, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_11
+  rotate: false
+  xy: 308, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_13
+  rotate: false
+  xy: 410, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_15
+  rotate: false
+  xy: 512, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_17
+  rotate: false
+  xy: 1328, 124
+  size: 90, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_19
+  rotate: false
+  xy: 614, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_21
+  rotate: true
+  xy: 666, 22
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_23
+  rotate: false
+  xy: 716, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_25
+  rotate: false
+  xy: 818, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_27
+  rotate: false
+  xy: 920, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_29
+  rotate: true
+  xy: 968, 22
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_31
+  rotate: false
+  xy: 1022, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_33
+  rotate: false
+  xy: 1124, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+mg_dust2_35
+  rotate: false
+  xy: 1226, 124
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1

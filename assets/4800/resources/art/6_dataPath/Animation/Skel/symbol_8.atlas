@@ -1,0 +1,27 @@
+
+symbol_8.png
+size: 228,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_shine
+  rotate: false
+  xy: 175, 5
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+symbol_8
+  rotate: true
+  xy: 93, 2
+  size: 53, 80
+  orig: 55, 80
+  offset: 1, 0
+  index: -1
+symbols_8_blur
+  rotate: true
+  xy: 2, 2
+  size: 53, 89
+  orig: 54, 90
+  offset: 1, 1
+  index: -1

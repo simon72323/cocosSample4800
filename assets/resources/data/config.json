@@ -1,0 +1,13 @@
+{
+    "Sites": {
+        "Develop": [
+            "gc.prep.lab",
+            "gc.playhard.name",
+            "gc.ifun7.vip",
+            "localhost",
+            "gs.prep.lab"
+        ],
+        "QA": []
+    },
+    "Version": "4800.010"
+}

@@ -1,0 +1,97 @@
+
+checkbuy.png
+size: 844,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backlight
+  rotate: false
+  xy: 497, 267
+  size: 215, 215
+  orig: 228, 228
+  offset: 7, 3
+  index: -1
+check_buy_ch
+  rotate: false
+  xy: 375, 2
+  size: 251, 132
+  orig: 253, 134
+  offset: 1, 1
+  index: -1
+check_buy_en
+  rotate: true
+  xy: 730, 649
+  size: 368, 112
+  orig: 370, 114
+  offset: 1, 1
+  index: -1
+check_buy_frame
+  rotate: false
+  xy: 2, 484
+  size: 726, 533
+  orig: 728, 535
+  offset: 1, 1
+  index: -1
+check_buy_id
+  rotate: false
+  xy: 2, 379
+  size: 493, 103
+  orig: 495, 105
+  offset: 1, 1
+  index: -1
+check_buy_ko
+  rotate: false
+  xy: 443, 136
+  size: 266, 129
+  orig: 268, 131
+  offset: 1, 1
+  index: -1
+check_buy_ms
+  rotate: false
+  xy: 2, 271
+  size: 489, 106
+  orig: 491, 108
+  offset: 1, 1
+  index: -1
+check_buy_ph
+  rotate: false
+  xy: 2, 166
+  size: 439, 103
+  orig: 441, 105
+  offset: 1, 1
+  index: -1
+check_buy_th
+  rotate: false
+  xy: 2, 56
+  size: 371, 108
+  orig: 373, 110
+  offset: 1, 1
+  index: -1
+check_buy_vi
+  rotate: true
+  xy: 730, 279
+  size: 368, 112
+  orig: 370, 114
+  offset: 1, 1
+  index: -1
+guangdian1
+  rotate: false
+  xy: 57, 13
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+xx1
+  rotate: true
+  xy: 628, 24
+  size: 110, 103
+  orig: 112, 104
+  offset: 1, 1
+  index: -1
+xx2
+  rotate: false
+  xy: 2, 13
+  size: 53, 41
+  orig: 54, 48
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,83 @@
+
+symbols_1.png
+size: 451,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbols_1_0
+  rotate: false
+  xy: 2, 2
+  size: 125, 130
+  orig: 127, 133
+  offset: 1, 1
+  index: -1
+symbols_1_1
+  rotate: true
+  xy: 346, 223
+  size: 68, 103
+  orig: 70, 105
+  offset: 1, 1
+  index: -1
+symbols_1_2
+  rotate: true
+  xy: 346, 140
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+symbols_1_3
+  rotate: true
+  xy: 346, 181
+  size: 40, 100
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+symbols_1_4
+  rotate: true
+  xy: 161, 166
+  size: 125, 60
+  orig: 127, 62
+  offset: 1, 1
+  index: -1
+symbols_1_5
+  rotate: true
+  xy: 256, 74
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+symbols_1_6
+  rotate: false
+  xy: 334, 24
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+symbols_1_7
+  rotate: true
+  xy: 223, 169
+  size: 122, 121
+  orig: 125, 123
+  offset: 2, 1
+  index: -1
+tx01_symbols_1_1
+  rotate: false
+  xy: 256, 24
+  size: 46, 48
+  orig: 52, 54
+  offset: 3, 3
+  index: -1
+tx02_symbols_1_7
+  rotate: false
+  xy: 129, 6
+  size: 125, 126
+  orig: 129, 131
+  offset: 2, 3
+  index: -1
+tx03_symbols_1_6
+  rotate: false
+  xy: 2, 134
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1

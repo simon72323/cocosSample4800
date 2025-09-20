@@ -1,0 +1,172 @@
+{
+"skeleton": { "hash": "1F70OoFB4TfLrPGzYd/EcgcaCZs", "spine": "3.8.72" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "par", "parent": "root" }
+],
+"slots": [
+	{ "name": "par", "bone": "par" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"par": {
+				"par_00": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -30, -47, -30, -47, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -52, -31, -52, 33, 32, 33 ],
+					"hull": 4
+				},
+				"par_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -31, -56, -31, -56, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_06": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -33, -61, -33, -61, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_08": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -34, -65, -34, -65, 33, 32, 33 ],
+					"hull": 4
+				},
+				"par_10": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -34, -70, -34, -70, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_12": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -35, -61, -35, -61, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_14": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -36, -65, -36, -65, 34, 32, 34 ],
+					"hull": 4
+				},
+				"par_16": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -30, -70, -30, -70, 35, 31, 35 ],
+					"hull": 4
+				},
+				"par_18": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -68, -31, -68, 36, 32, 36 ],
+					"hull": 4
+				},
+				"par_20": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -73, -31, -73, 38, 32, 38 ],
+					"hull": 4
+				},
+				"par_22": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -32, -78, -32, -78, 39, 31, 39 ],
+					"hull": 4
+				},
+				"par_24": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -82, -31, -82, 40, 32, 40 ],
+					"hull": 4
+				},
+				"par_26": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -68, -31, -68, 40, 32, 40 ],
+					"hull": 4
+				},
+				"par_28": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 31, -30, -52, -30, -52, 32, 31, 32 ],
+					"hull": 4
+				},
+				"par_30": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 32, -31, -56, -31, -56, 33, 32, 33 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"par": {
+				"attachment": [
+					{ "name": "par_00" },
+					{ "time": 0.0333, "name": "par_02" },
+					{ "time": 0.0667, "name": "par_04" },
+					{ "time": 0.1, "name": "par_06" },
+					{ "time": 0.1333, "name": "par_08" },
+					{ "time": 0.1667, "name": "par_10" },
+					{ "time": 0.2, "name": "par_12" },
+					{ "time": 0.2333, "name": "par_14" },
+					{ "time": 0.2667, "name": "par_16" },
+					{ "time": 0.3, "name": "par_18" },
+					{ "time": 0.3333, "name": "par_20" },
+					{ "time": 0.3667, "name": "par_22" },
+					{ "time": 0.4, "name": "par_24" },
+					{ "time": 0.4333, "name": "par_26" },
+					{ "time": 0.4667, "name": "par_28" },
+					{ "time": 0.5, "name": "par_30" },
+					{ "time": 0.5333, "name": "par_00" },
+					{ "time": 0.5667, "name": "par_02" },
+					{ "time": 0.6, "name": "par_06" },
+					{ "time": 0.6333, "name": "par_08" },
+					{ "time": 0.6667, "name": "par_10" },
+					{ "time": 0.7, "name": "par_12" },
+					{ "time": 0.7333, "name": "par_14" },
+					{ "time": 0.7667, "name": "par_16" },
+					{ "time": 0.8, "name": "par_18" },
+					{ "time": 0.8333, "name": "par_20" },
+					{ "time": 0.8667, "name": "par_22" },
+					{ "time": 0.9, "name": "par_24" },
+					{ "time": 0.9333, "name": "par_26" },
+					{ "time": 0.9667, "name": "par_28" },
+					{ "time": 1, "name": "par_30" }
+				]
+			}
+		}
+	}
+}
+}

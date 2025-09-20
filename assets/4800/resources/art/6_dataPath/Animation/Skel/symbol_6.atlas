@@ -1,0 +1,27 @@
+
+symbol_6.png
+size: 232,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_shine
+  rotate: false
+  xy: 177, 27
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+symbols_6
+  rotate: true
+  xy: 94, 2
+  size: 75, 81
+  orig: 75, 82
+  offset: 0, 1
+  index: -1
+symbols_6_blur
+  rotate: true
+  xy: 2, 2
+  size: 75, 90
+  orig: 75, 91
+  offset: 0, 1
+  index: -1
