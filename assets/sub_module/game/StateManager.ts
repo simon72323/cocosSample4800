@@ -1,4 +1,4 @@
-import xstate from "xstate/dist/xstate.js";
+import { createMachine, interpret } from 'xstate';
 import { HttpConstants, HttpRequest } from '../network/HttpRequest';
 import { gameInformation } from './GameInformation';
 import { playerInformation } from './PlayerInformation';
@@ -40,7 +40,7 @@ export class StateManager {
     }
     //#endregion
 
-    slotMachine = xstate.Machine( {
+    slotMachine = createMachine( {
         initial: SlotStates.IDLE,
         states: {
             [ SlotStates.IDLE ]: {
@@ -187,7 +187,7 @@ export class StateManager {
         }
     } );
 
-    slotService = xstate.interpret( this.slotMachine )
+    slotService = interpret( this.slotMachine )
         .onTransition( ( state: any ) => {
             console.log( state.changed );
             console.log( state.value );

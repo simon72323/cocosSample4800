@@ -15,7 +15,7 @@ export class Develop4800 extends Component {
 
     start() {
         if (Utils.isDevelopment() === false) return;
-        cc.develop = this;
+        (window as any).develop = this;
         this['gameInformation'] = gameInformation;
         this.init();
     }
@@ -571,7 +571,7 @@ export class Develop4800 extends Component {
     }
 
     public test1() {
-        cc.machine.spinTest({
+        this.machine.spinTest({
             "game_id": 4800,
             "main_game": {
                 "pay_credit_total": 4920,
@@ -751,7 +751,7 @@ export class Develop4800 extends Component {
     }
 
     public fgGame2() {
-        cc.machine.spinTest(
+        this.machine.spinTest(
             {
                 "game_id": 4800,
                 "main_game": {

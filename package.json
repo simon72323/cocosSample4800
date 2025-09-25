@@ -2,7 +2,7 @@
   "name": "48slot",
   "uuid": "c141efdc-17d0-40e6-b8ec-264d7f3a9ad1",
   "creator": {
-    "version": "3.8.5"
+    "version": "3.8.6"
   },
   "dependencies": {
     "joe": "^2.0.2",

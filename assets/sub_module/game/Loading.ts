@@ -30,7 +30,7 @@ export class LoadingImage {
     public verticalImage: SpriteFrame;
 
     @property({ type: Node, displayName: 'ActiveNode', tooltip: '打開物件' })
-    public activeNode : Node = null;
+    public activeNode: Node = null;
 }
 
 @ccclass('Loading')
@@ -96,7 +96,7 @@ export class Loading extends Component {
         if (Loading.Instance !== null) return Loading.noLoading = true;
         E2ETest.E2EStartLoading();
         this.loadingTime = Date.now();
-        if ( this.maskSprite?.node ) this.maskSprite.node.active = true;
+        if (this.maskSprite?.node) this.maskSprite.node.active = true;
         Loading.Instance = this;
         this.getCurrencyJson();
         Utils.getConfig();
@@ -118,7 +118,7 @@ export class Loading extends Component {
             .then(this.getGameData)
             .then(() => {
                 console.log('Loading Done', this.isPreview);
-                if ( this.isPreview ) return Machine.EnterGame();
+                if (this.isPreview) return Machine.EnterGame();
                 this.loadGameScene();
             })
             .catch(function (e) {
@@ -131,7 +131,7 @@ export class Loading extends Component {
     }
 
     tweenMask() {
-        if ( this.isPreview ) return;
+        if (this.isPreview) return;
         let alpha = { a: 255 };
         let self = this;
         tween(alpha).to(0.2, { a: 0 }, { onUpdate: (a) => { self.maskSprite.color = new Color(0, 0, 0, alpha.a); } }).start();
@@ -141,7 +141,7 @@ export class Loading extends Component {
      * 更換平台商的 Loading 圖片
      */
     changePlatformImage(): boolean {
-        if ( PREVIEW && Loading.getUrlParams?.['b'] == null ) Loading.getUrlParams['b'] = this.platformKey; 
+        if (PREVIEW && Loading.getUrlParams?.['b'] == null) Loading.getUrlParams['b'] = this.platformKey;
         if (Loading.getUrlParams == null) return;
         if (Loading.getUrlParams['b'] == null) return;
         if (this.horizontalSprite == null || this.verticalSprite == null) return;
@@ -161,10 +161,10 @@ export class Loading extends Component {
             }
             this.horizontalSprite.spriteFrame = platformData.horizontalImage;
             this.verticalSprite.spriteFrame = platformData.verticalImage;
-            if ( platformData.activeNode ) {
+            if (platformData.activeNode) {
                 platformData.activeNode.active = true;
             }
-            
+
             index++;
         }
     }
@@ -194,16 +194,16 @@ export class Loading extends Component {
 
     static getUrlParams: any = null;
     public getParamURL() {
-        let paramURL                 = Utils.parseURLToJson();
-        Loading.getUrlParams         = paramURL;
-        gameInformation.gameid       = Number.parseInt(this.getParam(paramURL, 'gameid'));
-        gameInformation.token        = this.getParam(paramURL, 'token');
-        gameInformation._paramToken  = this.getParam(paramURL, 'token');
-        gameInformation.serverurl    = this.getParam(paramURL, 'serverurl');
-        gameInformation.lang         = this.getParam(paramURL, 'lang');
+        let paramURL = Utils.parseURLToJson();
+        Loading.getUrlParams = paramURL;
+        gameInformation.gameid = Number.parseInt(this.getParam(paramURL, 'gameid'));
+        gameInformation.token = this.getParam(paramURL, 'token');
+        gameInformation._paramToken = this.getParam(paramURL, 'token');
+        gameInformation.serverurl = this.getParam(paramURL, 'serverurl');
+        gameInformation.lang = this.getParam(paramURL, 'lang');
         gameInformation.betrecordurl = this.getParam(paramURL, 'betrecordurl');
 
-        let currency = this.getParam(paramURL,  'currency');
+        let currency = this.getParam(paramURL, 'currency');
         if (currency) gameInformation.setCurrency(currency);
         i18n.init(gameInformation.lang);
     }
@@ -223,7 +223,7 @@ export class Loading extends Component {
             gameInformation._paramToken = token;
             return token;
         }
-        
+
         let getRenewToken = {
             "command": HttpConstants.GET_RENEW_TOKEN,
             "token": gameInformation.token,
@@ -278,9 +278,9 @@ export class Loading extends Component {
             }
         }, function () {
             EventManager.instance.dispatchEvent(EventType.UPDATE_PROGRESS, 1);
-            director.loadScene(Loading.Instance.GameScene, (err, scene )=>{
+            director.loadScene(Loading.Instance.GameScene, (err, scene) => {
                 self._loadingDone = true;
-                let loadingTime = Math.floor((Date.now() - self.loadingTime)/1000 + 4);
+                let loadingTime = Math.floor((Date.now() - self.loadingTime) / 1000 + 4);
                 Utils.GoogleTag('LoadingEnd', { 'time': loadingTime });
             });
         });
